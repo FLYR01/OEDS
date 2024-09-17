@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore GDS files (if they are auto-generated)
+*.gds
+
+# System files (for macOS)
+.DS_Store
+
+# Virtual environment (if present)
+venv/
