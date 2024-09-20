@@ -130,7 +130,6 @@ def circle_arc180_wg(
 
     return circle_arc180_cell
 
-
 def euler_arc180_wg(
         canvas: db.Layout,
         layer: int,
@@ -191,8 +190,12 @@ def euler_arc180_wg(
     # Create the path of the waveguide from the generated points
     path_points = [db.DPoint(x, y) for x, y in full_curve_points]
     bend_path = db.DPath(path_points, width)
+    # bend_path_poly = bend_path.polygon()
 
     # Insert the waveguide into the specified layer
     euler_arc_cell.shapes(layer).insert(bend_path)
+    # euler_arc_cell.shapes(layer).insert(bend_path_poly)
 
     return euler_arc_cell
+
+
