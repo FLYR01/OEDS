@@ -44,4 +44,4 @@ offset = db.DVector(200, 0)
 top_cell.insert(db.DCellInstArray(all_pass_euler_ring_1.cell_index(), db.DTrans(offset)))
 
 # Write the layout to a GDS file
-canvas.write("output/AllPassRing.gds")
+canvas.write("C:/Users/32232/Documents/OEDS/OEDS/src/output/AllPassRing1.gds")
