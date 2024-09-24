@@ -21,7 +21,7 @@ def main():
     
     
     # Write the layout to a GDS file
-    layout.write("C:/Users/32232/Documents/OEDS/OEDS/src/output/AllPassRing.gds")
+    layout.write("src/output/AllPassRing1.gds")
     print("GDS file 'result.gds' written successfully.")
 
 main()
