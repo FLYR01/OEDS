@@ -1,0 +1,128 @@
+Device Instance 1:
+  Cell Name: SOA_pad_1 (Parent: None)
+  Position in Top Cell: (5339250, -5423000)
+  Size: 70000 x 105000
+Device Instance 10:
+  Cell Name: SOA_pad_10 (Parent: None)
+  Position in Top Cell: (4219250, -5423000)
+  Size: 70000 x 105000
+Device Instance 11:
+  Cell Name: SOA_pad_11 (Parent: None)
+  Position in Top Cell: (4499250, -5423000)
+  Size: 70000 x 105000
+Device Instance 12:
+  Cell Name: SOA_pad_12 (Parent: None)
+  Position in Top Cell: (5059250, -5423000)
+  Size: 70000 x 105000
+Device Instance 13:
+  Cell Name: SOA_pad_13 (Parent: None)
+  Position in Top Cell: (4779250, -5423000)
+  Size: 70000 x 105000
+Device Instance 14:
+  Cell Name: SOA_pad_14 (Parent: None)
+  Position in Top Cell: (3939250, -5423000)
+  Size: 70000 x 105000
+Device Instance 15:
+  Cell Name: SOA_pad_15 (Parent: None)
+  Position in Top Cell: (4219250, -9003000)
+  Size: 70000 x 105000
+Device Instance 16:
+  Cell Name: SOA_pad_16 (Parent: None)
+  Position in Top Cell: (3939250, -9003000)
+  Size: 70000 x 105000
+Device Instance 17:
+  Cell Name: SOA_pad_17 (Parent: None)
+  Position in Top Cell: (5059250, -9003000)
+  Size: 70000 x 105000
+Device Instance 18:
+  Cell Name: SOA_pad_18 (Parent: None)
+  Position in Top Cell: (4779250, -9003000)
+  Size: 70000 x 105000
+Device Instance 19:
+  Cell Name: SOA_pad_19 (Parent: None)
+  Position in Top Cell: (4499250, -9003000)
+  Size: 70000 x 105000
+Device Instance 20:
+  Cell Name: SOA_pad_20 (Parent: None)
+  Position in Top Cell: (4219250, -8773000)
+  Size: 70000 x 105000
+Device Instance 21:
+  Cell Name: SOA_pad_21 (Parent: None)
+  Position in Top Cell: (3939250, -8773000)
+  Size: 70000 x 105000
+Device Instance 22:
+  Cell Name: SOA_pad_22 (Parent: None)
+  Position in Top Cell: (5059250, -8773000)
+  Size: 70000 x 105000
+Device Instance 23:
+  Cell Name: SOA_pad_23 (Parent: None)
+  Position in Top Cell: (4779250, -8773000)
+  Size: 70000 x 105000
+Device Instance 24:
+  Cell Name: SOA_pad_24 (Parent: None)
+  Position in Top Cell: (4499250, -8773000)
+  Size: 70000 x 105000
+Device Instance 25:
+  Cell Name: SOA_pad_25 (Parent: None)
+  Position in Top Cell: (4219250, -12353000)
+  Size: 70000 x 105000
+Device Instance 26:
+  Cell Name: SOA_pad_26 (Parent: None)
+  Position in Top Cell: (3939250, -12353000)
+  Size: 70000 x 105000
+Device Instance 27:
+  Cell Name: SOA_pad_27 (Parent: None)
+  Position in Top Cell: (5059250, -12353000)
+  Size: 70000 x 105000
+Device Instance 28:
+  Cell Name: SOA_pad_28 (Parent: None)
+  Position in Top Cell: (4779250, -12353000)
+  Size: 70000 x 105000
+Device Instance 29:
+  Cell Name: SOA_pad_29 (Parent: None)
+  Position in Top Cell: (4499250, -12353000)
+  Size: 70000 x 105000
+Device Instance 30:
+  Cell Name: SOA_pad_30 (Parent: None)
+  Position in Top Cell: (6459250, -9003000)
+  Size: 70000 x 105000
+Device Instance 31:
+  Cell Name: SOA_pad_31 (Parent: None)
+  Position in Top Cell: (6179250, -9003000)
+  Size: 70000 x 105000
+Device Instance 32:
+  Cell Name: SOA_pad_32 (Parent: None)
+  Position in Top Cell: (5899250, -9003000)
+  Size: 70000 x 105000
+Device Instance 33:
+  Cell Name: SOA_pad_33 (Parent: None)
+  Position in Top Cell: (5619250, -9003000)
+  Size: 70000 x 105000
+Device Instance 34:
+  Cell Name: SOA_pad_34 (Parent: None)
+  Position in Top Cell: (5339250, -9003000)
+  Size: 70000 x 105000
+Device Instance 35:
+  Cell Name: SOA_pad_35 (Parent: None)
+  Position in Top Cell: (5339250, -8773000)
+  Size: 70000 x 105000
+Device Instance 36:
+  Cell Name: SOA_pad_36 (Parent: None)
+  Position in Top Cell: (6459250, -12353000)
+  Size: 70000 x 105000
+Device Instance 37:
+  Cell Name: SOA_pad_37 (Parent: None)
+  Position in Top Cell: (6179250, -12353000)
+  Size: 70000 x 105000
+Device Instance 38:
+  Cell Name: SOA_pad_38 (Parent: None)
+  Position in Top Cell: (5899250, -12353000)
+  Size: 70000 x 105000
+Device Instance 39:
+  Cell Name: SOA_pad_39 (Parent: None)
+  Position in Top Cell: (5619250, -12353000)
+  Size: 70000 x 105000
+Device Instance 40:
+  Cell Name: SOA_pad_40 (Parent: None)
+  Position in Top Cell: (5339250, -12353000)
+  Size: 70000 x 105000

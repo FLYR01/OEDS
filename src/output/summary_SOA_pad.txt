@@ -1,0 +1,165 @@
+
+Summary of Found Devices:
+Device Instance 1:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5339250, -5423000)
+  Size: 70000 x 105000
+Device Instance 2:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -4953000)
+  Size: 105000 x 70000
+Device Instance 3:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -4763000)
+  Size: 105000 x 70000
+Device Instance 4:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -4643000)
+  Size: 105000 x 70000
+Device Instance 5:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -5073000)
+  Size: 105000 x 70000
+Device Instance 6:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -6883000)
+  Size: 105000 x 70000
+Device Instance 7:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -6613000)
+  Size: 105000 x 70000
+Device Instance 8:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -6493000)
+  Size: 105000 x 70000
+Device Instance 9:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (10250000, -6763000)
+  Size: 105000 x 70000
+Device Instance 10:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4219250, -5423000)
+  Size: 70000 x 105000
+Device Instance 11:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4499250, -5423000)
+  Size: 70000 x 105000
+Device Instance 12:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5059250, -5423000)
+  Size: 70000 x 105000
+Device Instance 13:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4779250, -5423000)
+  Size: 70000 x 105000
+Device Instance 14:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (3939250, -5423000)
+  Size: 70000 x 105000
+Device Instance 15:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4219250, -9003000)
+  Size: 70000 x 105000
+Device Instance 16:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (3939250, -9003000)
+  Size: 70000 x 105000
+Device Instance 17:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5059250, -9003000)
+  Size: 70000 x 105000
+Device Instance 18:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4779250, -9003000)
+  Size: 70000 x 105000
+Device Instance 19:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4499250, -9003000)
+  Size: 70000 x 105000
+Device Instance 20:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4219250, -8773000)
+  Size: 70000 x 105000
+Device Instance 21:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (3939250, -8773000)
+  Size: 70000 x 105000
+Device Instance 22:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5059250, -8773000)
+  Size: 70000 x 105000
+Device Instance 23:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4779250, -8773000)
+  Size: 70000 x 105000
+Device Instance 24:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4499250, -8773000)
+  Size: 70000 x 105000
+Device Instance 25:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4219250, -12353000)
+  Size: 70000 x 105000
+Device Instance 26:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (3939250, -12353000)
+  Size: 70000 x 105000
+Device Instance 27:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5059250, -12353000)
+  Size: 70000 x 105000
+Device Instance 28:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4779250, -12353000)
+  Size: 70000 x 105000
+Device Instance 29:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (4499250, -12353000)
+  Size: 70000 x 105000
+Device Instance 30:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (6459250, -9003000)
+  Size: 70000 x 105000
+Device Instance 31:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (6179250, -9003000)
+  Size: 70000 x 105000
+Device Instance 32:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5899250, -9003000)
+  Size: 70000 x 105000
+Device Instance 33:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5619250, -9003000)
+  Size: 70000 x 105000
+Device Instance 34:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5339250, -9003000)
+  Size: 70000 x 105000
+Device Instance 35:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5339250, -8773000)
+  Size: 70000 x 105000
+Device Instance 36:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (6459250, -12353000)
+  Size: 70000 x 105000
+Device Instance 37:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (6179250, -12353000)
+  Size: 70000 x 105000
+Device Instance 38:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5899250, -12353000)
+  Size: 70000 x 105000
+Device Instance 39:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5619250, -12353000)
+  Size: 70000 x 105000
+Device Instance 40:
+  Cell Name: PCELL_50 (Parent: None)
+  Position in Top Cell: (5339250, -12353000)
+  Size: 70000 x 105000
+
+Total cells checked: 20520
+Maximum search depth: 6
