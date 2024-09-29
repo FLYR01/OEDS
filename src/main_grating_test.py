@@ -3,8 +3,8 @@ import numpy as np
 from DeviceLibrary import *
 
 canvas = db.Layout()
-layer_1=canvas.layer(1,0)
-layer_2=canvas.layer(2,0)
+layer_1=canvas.layer(10,2)
+layer_2=canvas.layer(11,4)
 
 
 grating1=grating_nature_lidar(
